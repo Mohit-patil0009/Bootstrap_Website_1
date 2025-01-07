@@ -1,0 +1,51 @@
+@media screen and (max-width:1200px){
+    .hero-viedo-section{
+        width: 20rem;
+        border-radius: 1rem;
+    }
+}
+
+
+
+@media screen and (max-width: 998px){
+
+    .navbar-toggler{
+        border-color: red;
+    }
+
+    .navbar-toggler-icon{
+        color: brown;
+        background-color: brown;
+    }
+    h1{
+        font-size: 2.8rem;
+        margin-left: 50px;
+        text-align: center;
+    }
+    
+    section .comman-heading{
+        font-size: 2rem;
+    }
+
+    section .pera-width{
+        width: auto;
+    }
+
+    .hero-section{
+        height: 100vh;
+    }
+
+    h2{
+        font-size: 1.8rem;
+        line-height: 2.4rem;
+    }
+
+    .more-info-section{
+        text-align: center;
+    }
+
+    .carousel .carousel-indicators{
+        bottom: -7%;
+    }
+
+}
